@@ -97,22 +97,6 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vineelavinjam-19&show_icons=true&theme=tokyonight)
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineelavinjam-19&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 Achievements
-
-🏅 Smart India Hackathon 2024 — Round 1 Qualified  
-🥇 Women's Cricket Champion — Nirvana 2026, MGIT  
-👩‍💼 Elected Group Leader — Led 70 students, MGIT  
-💻 150+ Problems Solved — BeingZero Platform  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineelavinjam-19&label=Profile%20Views&color=0e75b6&style=flat" />
