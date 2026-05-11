@@ -96,7 +96,6 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vineelavinjam-19&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vineelavinjam-19&layout=compact&theme=tokyonight)
 
 ---
 
