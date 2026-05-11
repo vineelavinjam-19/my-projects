@@ -151,7 +151,7 @@ A complete full-stack business web application with a RESTful API backend, secur
 <br/><br/>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vineelavinjam-19&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vineelavinjam-19&layout=compact&theme=tokyonight)
+
 
 </div>
 
