@@ -84,7 +84,7 @@
 | 🤖 **HireSync AI** | AI recruitment platform with NLP-based resume ranking | React, Node.js, BERT, JWT | [View](https://github.com/dreammast/HireSync_Agent) |
 | 📊 **AI Data Analyst** | Automated data analytics with AI chat interface | Python, Pandas, LLM API | [View](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst) |
 | ⏳ **Time Capsule** | Schedule & deliver messages/photos/videos via email | Node.js, MySQL, Cron Jobs | [View](https://github.com/vineelavinjam-19/timecapsule) |
-| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, MySQL | [View](https://github.com/vineelavinjam-19/madhurakshi) |
+| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, Supabase | [View](https://github.com/vineelavinjam-19/madhurakshi) |
 
 ---
 
