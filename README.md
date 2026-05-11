@@ -30,8 +30,7 @@
 - 🧠 Passionate about **AI/ML, Backend Development & Scalable Systems**
 - 🏆 **Women's Cricket Champion** — Nirvana 2026, MGIT
 - 🥇 **Smart India Hackathon 2024** — Round 1 Qualified
-- 💻 Solved **100+ problems** on BeingZero | Active on LeetCode
-- 🎯 Targeting **Software Engineering Internship 2026**
+- 💻 Solved **150+ problems** on BeingZero | Active on LeetCode
 
 ---
 
