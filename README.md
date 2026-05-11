@@ -25,8 +25,9 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently building **Madhurakshi** — a full-stack business web app with REST APIs
-- 🤝 Collaborated on **HireSync AI** — an AI-powered recruitment platform
+- 🔭 Currently building **Madhurakshi** — a full-stack business web app with Supabase & REST APIs
+- ✅ Just completed **Time Capsule** — scheduled message & media delivery app using MongoDB
+- 🤝 Collaborated on **HireSync AI** & **AI Data Analyst** — AI-powered real world projects
 - 🧠 Passionate about **AI/ML, Backend Development & Scalable Systems**
 - 🏆 **Women's Cricket Champion** — Nirvana 2026, MGIT
 - 🥇 **Smart India Hackathon 2024** — Round 1 Qualified
@@ -78,12 +79,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Repo |
-|---|---|---|---|
-| 🤖 **HireSync AI** | AI recruitment platform with NLP-based resume ranking | React, Node.js, BERT, JWT | [View](https://github.com/dreammast/HireSync_Agent) |
-| 📊 **AI Data Analyst** | Automated data analytics with AI chat interface | Python, Pandas, LLM API | [View](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst) |
-| ⏳ **Time Capsule** | Schedule & deliver messages/photos/videos via email | Node.js, MySQL, Cron Jobs | [View](https://github.com/vineelavinjam-19/timecapsule) |
-| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, Supabase | [View](https://github.com/vineelavinjam-19/madhurakshi) |
+| Project | Description | Tech | Status | Repo |
+|---|---|---|---|---|
+| 🤖 **HireSync AI** | AI recruitment platform with NLP-based resume ranking | React, Node.js, BERT, JWT | ✅ Completed | [View](https://github.com/dreammast/HireSync_Agent) |
+| 📊 **AI Data Analyst** | Automated data analytics with AI chat interface | Python, Pandas, LLM API | ✅ Completed | [View](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst) |
+| ⏳ **Time Capsule** | Schedule & deliver messages/photos/videos via email | Node.js, MongoDB, Cron Jobs | ✅ Completed | [View](https://github.com/vineelavinjam-19/timecapsule) |
+| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, Supabase | 🔄 In Progress | [View](https://github.com/vineelavinjam-19/madhurakshi) |
 
 ---
 
@@ -95,7 +96,6 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vineelavinjam-19&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -111,7 +111,7 @@
 🏅 Smart India Hackathon 2024 — Round 1 Qualified  
 🥇 Women's Cricket Champion — Nirvana 2026, MGIT  
 👩‍💼 Elected Group Leader — Led 70 students, MGIT  
-💻 100+ Problems Solved — BeingZero Platform  
+💻 150+ Problems Solved — BeingZero Platform  
 
 ---
 
@@ -120,3 +120,4 @@
 </p>
 
 <p align="center">⭐ If you like my work, consider starring my repos! ⭐</p>
+
