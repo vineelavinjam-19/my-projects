@@ -22,6 +22,16 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Status | Repo |
+|---|---|---|---|---|
+| 🤖 **HireSync AI** | AI recruitment platform with NLP-based resume ranking | React, Node.js, BERT, JWT | ✅ Completed | [View](https://github.com/dreammast/HireSync_Agent) |
+| 📊 **AI Data Analyst** | Automated data analytics with AI chat interface | Python, Pandas, LLM API | ✅ Completed | [View](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst) |
+| ⏳ **Time Capsule** | Schedule & deliver messages/photos/videos via email | Node.js, MongoDB, Cron Jobs | ✅ Completed | [View](https://github.com/vineelavinjam-19/timecapsule) |
+| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, Supabase | 🔄 In Progress | [View](https://github.com/vineelavinjam-19/madhurakshi) |
+
+---
 
 ## 👩‍💻 About Me
 
@@ -74,17 +84,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Status | Repo |
-|---|---|---|---|---|
-| 🤖 **HireSync AI** | AI recruitment platform with NLP-based resume ranking | React, Node.js, BERT, JWT | ✅ Completed | [View](https://github.com/dreammast/HireSync_Agent) |
-| 📊 **AI Data Analyst** | Automated data analytics with AI chat interface | Python, Pandas, LLM API | ✅ Completed | [View](https://github.com/Hasitha-Voruganti/AI-Powered-Data-Analyst) |
-| ⏳ **Time Capsule** | Schedule & deliver messages/photos/videos via email | Node.js, MongoDB, Cron Jobs | ✅ Completed | [View](https://github.com/vineelavinjam-19/timecapsule) |
-| 🌐 **Madhurakshi** | Full-stack business website with REST API backend | Node.js, Express, Supabase | 🔄 In Progress | [View](https://github.com/vineelavinjam-19/madhurakshi) |
 
 ---
 
