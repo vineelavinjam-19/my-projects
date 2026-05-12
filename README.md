@@ -188,6 +188,7 @@ If you're building something impactful — let's talk.
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vineelavinjam-19&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vineelavinjam-19&layout=compact&theme=tokyonight)
 
 </div>
 
