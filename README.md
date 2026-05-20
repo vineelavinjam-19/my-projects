@@ -24,7 +24,6 @@ Some of the things I've built include an **AI-powered recruitment platform** tha
 
 `Scalable Backend Systems` &nbsp;·&nbsp; `NLP & Transformer Models` &nbsp;·&nbsp; `REST API Design` &nbsp;·&nbsp; `Distributed Systems` &nbsp;·&nbsp; `Data-Driven Applications`
 
-> 💡 *"Don't just write code — build systems that create impact."*
 
 ---
 
