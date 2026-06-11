@@ -199,7 +199,7 @@ A complete full-stack business web application with a RESTful API backend, secur
 🏏 **Women's Cricket Champion** — Nirvana 2026, MGIT Annual Fest  
 🥇 **Smart India Hackathon (SIH) 2024** — Round 1 Qualified, Co-Captain  
 👩‍💼 **Elected Group Leader** — Led cohort of 70 students, MGIT (Oct 2024)  
-💻 **150+ Problems Solved** — Data Structures & Algorithms (Arrays, Strings, Trees, Graphs, DP)
+💻 **150+ Problems Solved** — Data Structures & Algorithms (Arrays, Strings, Trees, Graphs, DP)<br>
 📜 **Data Science Certification** — MGIT (Nov 2025)
 
 
