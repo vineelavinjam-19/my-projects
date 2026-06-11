@@ -51,6 +51,35 @@ Most recruitment is manual and slow. HireSync AI is an intelligent agent — it 
 
 ---
 
+### 🚀 AI-Powered LinkedIn Content Automation
+
+> *Generate, schedule, and publish LinkedIn content automatically using AI*
+
+An end-to-end automation workflow that creates professional LinkedIn content using Generative AI and publishes it automatically through integrated APIs. The system orchestrates multiple services, manages content pipelines, and eliminates manual posting efforts.
+
+| Layer                        | What it does                                         |
+| ---------------------------- | ---------------------------------------------------- |
+| 🤖 **AI Content Generation** | Google Gemini generates engaging LinkedIn posts      |
+| ⚙️ **Workflow Engine**       | n8n orchestrates automation workflows                |
+| 📅 **Scheduling**            | Automated content publishing at predefined intervals |
+| 🔗 **LinkedIn Integration**  | Direct publishing through LinkedIn APIs              |
+| 📊 **Content Management**    | Google Sheets used as dynamic content source         |
+| 📧 **Notifications**         | Gmail integration for workflow alerts and monitoring |
+| 🧠 **Memory Context**        | Session memory maintains consistency across posts    |
+
+#### Features
+
+* Automated LinkedIn post generation.
+* AI-assisted content creation.
+* Scheduled publishing without manual intervention.
+* Multi-service API integration.
+* Event-driven workflow architecture.
+
+`n8n` `Google Gemini` `LinkedIn API` `Google Sheets API` `Gmail API` `Workflow Automation` `REST APIs` `Generative AI`
+
+> **Solo Project** — AI-driven workflow automation platform.
+---
+
 ### 📊 [AI-Powered Data Analyst — Intelligent Analytics Platform](https://github.com/vineelavinjam-19/AI-Powered-Data-Analyst)
 > *Upload any dataset. Clean it. Visualise it. Ask it questions. No data degree required.*
 
