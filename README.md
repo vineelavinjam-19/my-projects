@@ -84,7 +84,7 @@ An end-to-end automation workflow that creates professional LinkedIn content usi
 
 `n8n` `Google Gemini` `LinkedIn API` `Google Sheets API` `Gmail API` `Workflow Automation` `REST APIs` `Generative AI`
 
-> **Solo Project** — [View Repository](https://github.com/vineelavinjam-19/HireSync_Agent)
+> **Solo Project** — [View Repository](https://github.com/vineelavinjam-19/Autonomous-Social-Media-Publishing-System)
 ---
 
 ### 📊 [AI-Powered Data Analyst — Intelligent Analytics Platform](https://github.com/vineelavinjam-19/AI-Powered-Data-Analyst)
