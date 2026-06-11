@@ -195,6 +195,7 @@ A complete full-stack business web application with a RESTful API backend, secur
 
 ## 🏆 Achievements & Certifications
 
+📄 Research Paper Published in IRJIET (May 2026)
 🏏 **Women's Cricket Champion** — Nirvana 2026, MGIT Annual Fest  
 🥇 **Smart India Hackathon (SIH) 2024** — Round 1 Qualified, Co-Captain  
 👩‍💼 **Elected Group Leader** — Led cohort of 70 students, MGIT (Oct 2024)  
