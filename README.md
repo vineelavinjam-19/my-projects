@@ -53,7 +53,7 @@ Most recruitment is manual and slow. HireSync AI is an intelligent agent — it 
 
 `React` `TypeScript` `Node.js` `Supabase` `MongoDB` `BERT` `JWT` `SendGrid` `Docker`
 
-> **Team Project** — [View Repository](https://github.com/vineelavinjam-19/HireSync_Agent)
+> **Team Project** — [View Repository](https://github.com/vineelavinjam-19/HireSync_Agent)<br>
 > **Research Publication** — International Research Journal of Innovations in Engineering and Technology (IRJIET), May 2026
 
 ---
