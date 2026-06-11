@@ -14,16 +14,22 @@
 
 ## 👋 Hi, I'm Vineela Vinjam
 
-I'm a Computer Science student from Hyderabad who loves building **real-world, AI-powered applications** — the kind that actually solve problems people face every day.
+I'm a Computer Science student from Hyderabad who loves building **real-world, AI-powered applications** that solve practical problems and create meaningful impact.
 
-My work spans **Full Stack Development**, **AI/ML Integration**, **Backend Engineering**, and **Data Analytics**. I enjoy taking an idea all the way — from designing the database schema and building the REST API, to integrating intelligent models and shipping a clean, user-friendly frontend. Every layer matters to me.
+My interests span **Full Stack Development, AI/ML, Workflow Automation, Backend Engineering, and Data Analytics**. I enjoy taking products from idea to deployment — designing databases, building scalable APIs, integrating AI models, automating workflows, and delivering intuitive user experiences.
 
-Some of the things I've built include an **AI-powered recruitment platform** that automatically ranks candidates using NLP and transformer models, an **intelligent data analytics system** that automates the entire analysis workflow, and a **time capsule app** that schedules and delivers memories via email — all built end-to-end.
+Some of the projects I've built include:
+
+* 🤖 **HireSync AI** — an AI-powered recruitment platform that ranks candidates using NLP and transformer models.
+* 🚀 **LinkedIn Content Automation** — an AI-driven workflow that generates and publishes LinkedIn posts automatically.
+* 📊 **AI-Powered Data Analyst** — an intelligent analytics platform that automates data cleaning, visualization, and insight generation.
+* ⏳ **Time Capsule** — a platform that schedules and delivers messages, photos, and videos at future dates.
+
+I enjoy solving complex problems, learning new technologies, and building systems that combine intelligence, automation, and scalability.
 
 **Currently exploring:**
 
-`Scalable Backend Systems` &nbsp;·&nbsp; `NLP & Transformer Models` &nbsp;·&nbsp; `REST API Design` &nbsp;·&nbsp; `Distributed Systems` &nbsp;·&nbsp; `Data-Driven Applications`
-
+`AI Agents` · `Workflow Automation` · `Scalable Backend Systems` · `NLP & Transformer Models` · `REST API Design` · `Distributed Systems`
 
 ---
 
@@ -191,8 +197,9 @@ A complete full-stack business web application with a RESTful API backend, secur
 🏏 **Women's Cricket Champion** — Nirvana 2026, MGIT Annual Fest  
 🥇 **Smart India Hackathon (SIH) 2024** — Round 1 Qualified, Co-Captain  
 👩‍💼 **Elected Group Leader** — Led cohort of 70 students, MGIT (Oct 2024)  
-💻 **100+ Problems Solved** — BeingZero Platform (Arrays, Strings, Trees, DP, Graphs)  
+💻 **150+ Problems Solved** — Data Structures & Algorithms (Arrays, Strings, Trees, Graphs, DP)
 📜 **Data Science Certification** — MGIT (Nov 2025)
+
 
 ---
 
